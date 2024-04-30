@@ -1017,6 +1017,8 @@ body {
 
     .reviews-wrapper {
         padding: 0px 40px !important;
+        display: flex;
+        flex-wrap: wrap;
     }
 
     .hero-img img {
